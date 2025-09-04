@@ -40,15 +40,16 @@ Vitest | Playwright | Pytest | Prettier | Black | Pylint | Docker Compose | Form
 
 ## 📂 開発実績
 
-### 🏠 家計簿アプリ
-シンプルで使いやすい家計簿。収支登録・月次集計・カテゴリ管理が可能。  
-**技術:** Next.js / React / TypeScript / Express / Prisma / MySQL / Docker / Vitest  
-**工夫点:**  
-- POST後に月次集計を自動再計算  
-- フロント・バック双方でAPI・データ構造を最適化  
-- 網羅的テストで堅牢性を確保  
+### 関数電卓アプリ
+シンプルな関数電卓。キーボード入力・数式表示が可能。
+技術: Next.js / React / TypeScript / Tailwind CSS / Vitest / Vercel
+工夫点:
+キーボードとマウス両方での操作に対応
+数式表示機能で「5 + 3」のように計算過程を可視化
+オレンジ色のUIデザインとホバーエフェクト
+網羅的テスト（28テストケース）で堅牢性を確保
 
-🔗 Repository (準備中)
+🔗 https://scientific-calculator73.vercel.app/
 
 ---
 
