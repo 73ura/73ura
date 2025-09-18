@@ -1,5 +1,11 @@
-# Nami MIURA🐾💻🌱 
+# Nami MIURA🐾💻🌱 　　　　　　　
+
+
+
 <p align="right">
+<a href="https://x.com/73ura_tech">
+  <img src="https://github.com/user-attachments/assets/0755863b-6396-4e86-a35c-565e4aa167b0" alt="Xアイコン" width="30" height="30">
+</a>
   <a href="https://github.com/73ura">
     <img height="20" src="https://komarev.com/ghpvc/?username=73ura" />
   </a>
