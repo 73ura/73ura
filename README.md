@@ -1,48 +1,76 @@
-# Nami MIURA🌱
-
-**フルスタック開発者** 🐾💻  
-
-AI・クラウド技術を活用して、モダンなWebアプリを開発しています。
-
-- 🔭 現在の取り組み: 家計簿アプリ・ポートフォリオ管理サイト・教育系や実用系のプロジェクトの改善  
-- 🌱 技術スタック: 
-#### ■ フロントエンド
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40"/> 
+# Nami MIURA🐾💻🌱 
+<p align="right">
+  <a href="https://github.com/73ura">
+    <img height="20" src="https://komarev.com/ghpvc/?username=73ura" />
+  </a>
+  <a href="https://github.com/73ura">
+    <img height="20" src="https://img.shields.io/github/followers/73ura?label=Follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/73ura">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/73ura/posts.svg" />
+  </a>
+  <a href="https://qiita.com/73ura">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/73ura/contributions.svg" />
+  </a>
 </p>
-Emotion | Day.js | SWR | React Markdown | Firebase | Stripe.js
 
-#### ■ バックエンド
+
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
 </p>
-Express.js | REST API | Whisper API | FFmpeg | Pydub | Firebase Admin | Boto3 | Stripe  
-PostgreSQL | MySQL | Prisma | SQLAlchemy | Docker | Alembic
-
-#### ■ 開発・インフラ
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="40" height="40"/> 
-</p>
-Vitest | Playwright | Pytest | Prettier | Black | Pylint | Docker Compose | Formspree | Vercel | MediaRecorder API | SpeechSynthesis API
-
 
 ---
 
-## 📂 開発実績
+## 📂 作品集
 
-### 関数電卓アプリ
+### 😊 きもちみっけ！　
+未就学児向けの感情教育アプリ。感情カード選択・強度設定・音声入力で感情を記録し、レポートで子どもの感情変化を追跡可能。  
+**工夫点:**  
+- **子ども向けUI設計**：3-5歳向け視覚的UI、音声ガイド、大きなタップ領域（44px以上）  
+- **音声認識×感情分析**：Whisper APIで音声→テキスト変換、子ども向け語彙プロンプトで精度向上  
+- **キャラクター「こころん」**：WebP画像で親しみやすく、感情に応じた反応を演出  
+- **保護者向けレポート**：感情の変化をカレンダーで可視化、日次・週次レポート  
+- **共感力トレーニング**：ロールプレイ機能で日常シチュエーションの感情理解を促進  
+
+📽️ [デモ資料・発表スライドを見る](https://www.canva.com/design/DAGxzPtkyBg/q1r58HehPhy6TSQ97trlSw/edit?utm_content=DAGxzPtkyBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<img width="100" height="100" alt="kokoron_greeting" src="https://github.com/user-attachments/assets/f9d6d086-4365-4b92-91dd-a217514b752a" />
+
+---
+
+### 🎤 おつかれビーツ
+LINE Botアプリ。ユーザーの愚痴から即興ラップを生成、VOICEVOXで音声合成。  
+**工夫点:**  
+- Webhook処理＋署名検証  
+- OpenAI × VOICEVOXでラップ音声生成  
+- 履歴ベースの対話設計＆フォールバック応答
+  
+LINEから実際にご覧いただけます↓
+
+<img width="90" height="90" alt="S_gainfriends_2dbarcodes_BW" src="https://github.com/user-attachments/assets/ddae16e8-3522-4ab2-9fa0-32a1394a341c" />
+<img width="180" height="180" alt="おつかれビーツちゃん" src="https://github.com/user-attachments/assets/6d93dd7a-1053-41c3-9e5a-cfbfd928235c" />
+
+---
+
+### 🍊関数電卓
 シンプルな関数電卓。キーボード入力・数式表示が可能。
-技術: Next.js / React / TypeScript / Tailwind CSS / Vitest / Vercel
 工夫点:
 キーボードとマウス両方での操作に対応
 数式表示機能で「5 + 3」のように計算過程を可視化
@@ -64,40 +92,19 @@ Vitest | Playwright | Pytest | Prettier | Black | Pylint | Docker Compose | Form
 
 ---
 
-### 👶 おぼえててね
-子供の名言・迷言を記録するアプリ。  
-**技術:** Next.js / React / TypeScript / MUI / FastAPI / PostgreSQL / SQLAlchemy / Docker / Firebase Auth / Vitest / Playwright / Pytest  
-**工夫点:**  
-- 直感的UI（インライン編集＋上部フォーム）  
-- 認証付きAPI設計でセキュリティ確保  
-- タイムライン形式で振り返りやすいUX  
-
-🔗 Repository (準備中)
+### 👶 おぼえてて
+子供とのおもいでを記録するアプリ。      
+🔗  (準備中)
 
 ---
 
-### 🎤 おつかれビーツ
-LINE Botアプリ。ユーザーの愚痴から即興ラップを生成、VOICEVOXで音声合成。  
-**技術:** Next.js / React / TypeScript / Node.js / LINE Messaging API / MySQL / Prisma / OpenAI API / VOICEVOX / Docker / Vercel  
-**工夫点:**  
-- Webhook処理＋署名検証  
-- OpenAI × VOICEVOXでラップ音声生成  
-- 履歴ベースの対話設計＆フォールバック応答  
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=73ura&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=73ura&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=73ura&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=73ura&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=73ura&theme=transparent&utcOffset=9)
 
-🔗 Repository (準備中)
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=73ura&theme=vn7n24fzkq)
 
----
-
-### 😊 きもちみっけ！
-未就学児向けの感情教育アプリ。感情カード選択・強度設定・音声入力で感情を記録し、レポートで子どもの感情変化を追跡可能。  
-**技術:** Next.js / React / TypeScript / FastAPI / PostgreSQL / SQLAlchemy / Docker / Firebase Auth / Whisper API / Stripe / Vitest / Playwright / Pytest  
-**工夫点:**  
-- **子ども向けUI設計**：3-5歳向け視覚的UI、音声ガイド、大きなタップ領域（44px以上）  
-- **音声認識×感情分析**：Whisper APIで音声→テキスト変換、子ども向け語彙プロンプトで精度向上  
-- **キャラクター「こころん」**：WebP画像で親しみやすく、感情に応じた反応を演出  
-- **保護者向けレポート**：感情の変化をカレンダーで可視化、日次・週次レポート  
-- **共感力トレーニング**：ロールプレイ機能で日常シチュエーションの感情理解を促進  
-
-🔗 Repository (準備中)
-
-📽️ [デモ資料・発表スライドを見る](https://www.canva.com/design/DAGxzPtkyBg/q1r58HehPhy6TSQ97trlSw/edit?utm_content=DAGxzPtkyBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
